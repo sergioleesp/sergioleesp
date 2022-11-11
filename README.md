@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 💫 About Me:
-Hey! I'm Yunsuk, your next frontend dev B)<br><br>🔭 I’m currently working on my nonexistent frontend career!<br>👯 I’m looking to collaborate on a project I can add value to<br>🤝 I’m looking for help with trying to look cool and smart on github<br>🌱 I’m currently learning a new framework every freakin week<br>💬 Ask me about anything except html<br>⚡ Fun fact: Korean parents, born and raised in Argentina and currently living in Spain 
+Hey! I'm Sergio Yunsuk Lee, your next frontend dev B)<br><br>🔭 I’m currently working on my nonexistent frontend career!<br>👯 I’m looking to collaborate on a project I can add value to<br>🤝 I’m looking for help with trying to look cool and smart on github<br>🌱 I’m currently learning a new framework every freakin week<br>💬 Ask me about anything except html<br>⚡ Fun fact: Korean parents, born and raised in Argentina and currently living in Spain 
 
 
 ## 🌐 Socials:
