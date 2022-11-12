@@ -27,6 +27,6 @@ Hey! I'm Sergio Yunsuk Lee, your next frontend dev B)<br><br>🔭 I’m currentl
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yunsuklee&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=yunsuklee&icon=0&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
