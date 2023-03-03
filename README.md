@@ -14,8 +14,7 @@ Feel free to reach out to me, no matter wether its a critique, feedback, advice,
 
 🌐 If you know more about me, you can get in touch via email to [sergioleesp@gmail.com](mailto:sergioleesp@gmail.com) or you may as well visit my [LinkedIn](https://linkedin.com/yunsuklee) profile. I do not recommend you to try my social media, you've been warned. Here's my [Instagram](https://instagram.com/yunsuklee_) and [Twitter](https://twitter.com/yunsuklee_) .
 
-### GitHub Stats 📊
-#
+## GitHub Stats 📊
 ![](https://github-readme-stats.vercel.app/api?username=yunsuklee&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yunsuklee&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yunsuklee&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
