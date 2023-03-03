@@ -14,17 +14,6 @@ Feel free to reach out to me, no matter wether its a critique, feedback, advice,
 
 📫 If you know more about me, you can get in touch via email to [sergioleesp@gmail.com](mailto:sergioleesp@gmail.com) or you may as well visit my [LinkedIn](https://linkedin.com/yunsuklee) profile. I do not recommend you to try my social media, you've been warned. Here's my [Instagram](https://instagram.com/yunsuklee_) and [Twitter](https://twitter.com/yunsuklee_) .
 
-## GitHub Stats 📊
-![](https://github-readme-stats.vercel.app/api?username=yunsuklee&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yunsuklee&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yunsuklee&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## GitHub Trophies 🏆 
-![](https://github-profile-trophy.vercel.app/?username=yunsuklee&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## Random Dev Quote ✍️ 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ## You've come this far, here are some of my hobbies & interests:
 🎮 Frustrated-never-reached-diamond League of Legends player.
 
@@ -37,3 +26,14 @@ Ask me what's the last book I read!
 Ask me out to a tennis match 🎾
 
 🇦🇷 Messi GOAT. 
+
+## GitHub Stats 📊
+![](https://github-readme-stats.vercel.app/api?username=yunsuklee&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yunsuklee&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yunsuklee&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## GitHub Trophies 🏆 
+![](https://github-profile-trophy.vercel.app/?username=yunsuklee&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## Random Dev Quote ✍️ 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
