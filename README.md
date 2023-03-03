@@ -12,7 +12,7 @@ Feel free to reach out to me, no matter wether its a critique, feedback, advice,
 
 🎯 I aim to expand professionally as a Frontend Developer to bring life into web applications, to reduce unnecessary frictions and turning them more enjoyable and intuitive. I want to generate exceptionally pleasing user experiences.
 
-🌐 If you know more about me, you can get in touch via email to [sergioleesp@gmail.com](mailto:sergioleesp@gmail.com) or you may as well visit my [LinkedIn](https://linkedin.com/yunsuklee) profile. I do not recommend you to try my social media, you've been warned. Here's my [Instagram](https://instagram.com/yunsuklee_) and [Twitter](https://twitter.com/yunsuklee_) .
+📫 If you know more about me, you can get in touch via email to [sergioleesp@gmail.com](mailto:sergioleesp@gmail.com) or you may as well visit my [LinkedIn](https://linkedin.com/yunsuklee) profile. I do not recommend you to try my social media, you've been warned. Here's my [Instagram](https://instagram.com/yunsuklee_) and [Twitter](https://twitter.com/yunsuklee_) .
 
 ## GitHub Stats 📊
 ![](https://github-readme-stats.vercel.app/api?username=yunsuklee&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -24,3 +24,16 @@ Feel free to reach out to me, no matter wether its a critique, feedback, advice,
 
 ## Random Dev Quote ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## You've come this far, here are some of my hobbies & interests:
+🎮 Frustrated-never-reached-diamond League of Legends player.
+
+📚 In the make bookworm. These days I'm mostly reading books about personal growth, philosophy, psichology and the greatest hits of literature. <br />
+Ask me what's the last book I read!
+
+🤓 Game of Thrones─until Season 6─lover. I'm quite enthusiast on science-fiction though I'm a supporter on the claim that Star Wars is poorly elaborated, could be galaxies beyond better.
+
+🦾 I enjoy hitting the gym and playing sports! <br />
+Ask me out to a tennis match 🎾
+
+🇦🇷 Messi GOAT. 
