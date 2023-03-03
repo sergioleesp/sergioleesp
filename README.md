@@ -1,5 +1,5 @@
 # Hey, I'm Sergio 😄
-Still making my way thorugh the hood. Here I post most of my learning process, so don´t be surprised if you find some console.logs lurking around...__
+Still making my way thorugh the hood. Here I post most of my learning process, so don´t be surprised if you find some console.logs lurking around...<br />
 You may also find some open-source projects I've contributed and some of my own as well!
 Feel free to reach out to me, no matter wether its a critique, feedback, advice, encouragement or just wanting to say hi 👋
 
