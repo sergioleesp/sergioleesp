@@ -25,6 +25,8 @@ Ask me what's the last book I read!
 🦾 I enjoy hitting the gym and playing sports! <br />
 Ask me out to a tennis match 🎾
 
+🎸 Guitar and 🎹 Piano player! 
+
 🇦🇷 Messi GOAT. 
 
 <br />
