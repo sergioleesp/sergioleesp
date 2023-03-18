@@ -1,6 +1,6 @@
 # Hey, I'm Sergio 😄
 Still making my way thorugh the hood. Here I post most of my learning process, so don´t be surprised if you find some creepy console.logs lurking around...<br />
-You may also find open-source projects I've contributed and some of my own projects as well!
+You may also find open-source projects I've contributed to and some projects of my own as well!
 Feel free to reach out to me, no matter wether its a critique, feedback, advice, encouragement or just wanting to say hi 👋
 
 ## About Me:
@@ -17,10 +17,10 @@ Feel free to reach out to me, no matter wether its a critique, feedback, advice,
 ## You've come this far, here are some of my hobbies & interests:
 🎮 Frustrated-never-reached-diamond League of Legends player.
 
-📚 In the make bookworm. These days I'm mostly reading books about personal growth, philosophy, psichology and the greatest hits of literature. <br />
+📚 In-the-make bookworm. These days I'm mostly reading books about personal growth, philosophy, psichology and the greatest hits of literature. <br />
 Ask me what's the last book I read!
 
-🤓 Game of Thrones─until Season 6─lover. I'm quite enthusiast on science-fiction though I'm a supporter on the claim that Star Wars is poorly elaborated, could be galaxies beyond better.
+🤓 Game of Thrones─until Season 6─lover. I'm quite enthusiastic on science-fiction though I'm a supporter on the claim that Star Wars is poorly elaborated, could be galaxies beyond better.
 
 🦾 I enjoy hitting the gym and playing sports! <br />
 Ask me out to a tennis match 🎾
